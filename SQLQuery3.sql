@@ -1,8 +1,8 @@
 
-
---select AVG(Unemployment) as AverageUnemployment
---From WalmartStoresales
---group by Store
+--get average unemployement rate for each store location
+select AVG(Unemployment) as AverageUnemployment
+From WalmartStoresales
+group by Store
 
 --average fuel price and average unemployment for stores for total time frame
 select AVG(Fuel_Price) as AverageFuelPrice, AVG(Unemployment) as AverageUnemployment, AVG(Weekly_Sales) as avgStoreSales
