@@ -1,8 +1,8 @@
 # Walmart Stores Analysis 
 Dataset: [Walmart Data-Retail Analysis | Kaggle](https://www.kaggle.com/vik2012kvs/walmart-dataretail-analysis?select=Walmart_Store_sales.csv)  
-Summary:
+Summary: This dataset tracks the Weekly Sales of 45 Walmart locations from Feb-2010 to Oct-2012.
 
-**Attributes:**  
+**Dataset Attributes:**  
 Store #  
 Week of Sales: weeks of 2/5/2010 - 10/26/2016 
 Weekly Sales  
@@ -19,7 +19,7 @@ Unemployment Rate
 
 [SQL queries](https://github.com/christabel-paul/Walmart_Stores_Analysis/blob/main/SQLQuery3.sql)
 
-## Tableau Views
+### Tableau Views
   1. Average Weekly sales for each store
   2. Average Weekly sales across all stores over a two year period
   3. Average weekly sales broken down by Holiday Weeks vs Nonholiday weeks
