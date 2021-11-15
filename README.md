@@ -25,4 +25,4 @@ Unemployment Rate
   3. Average weekly sales broken down by Holiday Weeks vs Nonholiday weeks
   4. Correlation to Average weekly sales in terms of unemployment rate, CPI, temperature, fuel price
 
-[Tableau Dashboard](https://github.com/christabel-paul/Walmart_Stores_Analysis/blob/main/tableau%20snapshot_.JPG)
+[Tableau Dashboard](https://public.tableau.com/app/profile/christabel.paul/viz/WalmartSalesDashboard_16265262848780/Dashboard1)
